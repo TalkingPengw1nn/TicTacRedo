@@ -1,2 +1,1 @@
-# TicTacRedo
-TicTacToe Variation
+A REDO mode to setlle the draw.
